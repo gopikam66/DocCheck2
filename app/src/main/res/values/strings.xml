@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DocCheck</string>
+    <string name="title_activity_set_ip">SetIp</string>
+</resources>
